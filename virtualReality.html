@@ -1,0 +1,36 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Virtual Reality</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <!-- <link rel="stylesheet" href="assets/plugin/fontawesome-5.2.0/css/all.css"> -->
+    <!-- <script src="assets/plugin/fontawesome-5.2.0/js/all.js"></script> -->
+    <script src="https://kit.fontawesome.com/f0f2d9386c.js" crossorigin="anonymous"></script>
+    <script>
+        function change1(){
+            document.getElementById("frame1").setAttribute("src", "https://sketchfab.com/models/7a69d66d6a7f4ad29f967937ebcf098a/embed?ui_theme=dark");
+        }
+        function change2(){
+            document.getElementById("frame1").setAttribute("src", "https://sketchfab.com/models/02853fb19e6a49bc84244a0f5caa703b/embed?ui_theme=dark");
+        }
+        
+    </script>
+</head>
+<body>
+    <header class="f360view">
+        <div class="menu">
+            <div class="selected" onclick="change1()"><i class="fas fa-mountain" style="padding-left: 1px;"></i><span>Kawah  Ijen</span></div>
+            <div class="selected" onclick="change2()"><i class="fas fa-globe" style="padding-left: 2px;"></i><span>Around of Ijen</span></div>
+           
+        </div>
+    </header>
+    <iframe src="https://sketchfab.com/models/7a69d66d6a7f4ad29f967937ebcf098a/embed?ui_theme=dark" loading="lazy" id="frame1"></iframe>
+    <a href="index.html"><button class="back">Back</button></a>
+</body>
+</html>

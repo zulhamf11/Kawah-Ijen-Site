@@ -1,0 +1,3 @@
+<?php
+
+    $oremail = "@gmail.com";

@@ -1,0 +1,38 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Street View 360</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <!-- <link rel="stylesheet" href="assets/plugin/fontawesome-5.2.0/css/all.css"> -->
+    <!-- <script src="assets/plugin/fontawesome-5.2.0/js/all.js"></script> -->
+    <script src="https://kit.fontawesome.com/f0f2d9386c.js" crossorigin="anonymous"></script>
+    <script>
+        function change1(){
+            document.getElementById("frame1").setAttribute("src", "https://www.google.com/maps/embed?pb=!4v1616516473943!6m8!1m7!1sCAoSLEFGMVFpcFBqZG9zNTltb3FrSU5ETm9jWnA5VXJaQUVGTG56REtObzhteU9O!2m2!1d-8.058!2d114.242!3f224.1222!4f0!5f0.7820865974627469");
+        }
+        function change2(){
+            document.getElementById("frame1").setAttribute("src", "https://www.google.com/maps/embed?pb=!4v1616781315770!6m8!1m7!1sCAoSLEFGMVFpcE9tNjJXQ3dINnV1TG15ajVHemhyeGVjbUgyTzdJaE5IZ0p6enRt!2m2!1d-8.058!2d114.242!3f200!4f20!5f0.7820865974627469");
+        }
+        function change3(){
+            document.getElementById("frame1").setAttribute("src", "https://www.google.com/maps/embed?pb=!4v1616781583755!6m8!1m7!1sCAoSLEFGMVFpcE1rQWFzSWI2Z05iNHFMRjkxUUk5RVR2QzBGRzEycHNGSmNZTHhm!2m2!1d-8.058!2d114.242!3f95.5343113419857!4f-6.244235446516967!5f0.7820865974627469");
+        }
+       
+    </script>
+</head>
+<body>
+    <header class="f360view">
+        <div class="menu">
+            <div class="selected" onclick="change1()"><i class="fas fa-mountain" style="padding-left: 1px;"></i><span>Ijen From Top</span></div>
+            <div class="selected" onclick="change2()"><i class="fas fa-water" style="padding-left: 2px;"></i><span>Ijen From Below</span></div>
+            <div class="selected" onclick="change3()"><i class="fas fa-people-carry" style="padding-left: 5px;"></i><span>People Around</span></div>
+           
+        </div>
+    </header>
+    <iframe src="https://www.google.com/maps/embed?pb=!4v1616516473943!6m8!1m7!1sCAoSLEFGMVFpcFBqZG9zNTltb3FrSU5ETm9jWnA5VXJaQUVGTG56REtObzhteU9O!2m2!1d-8.058!2d114.242!3f224.1222!4f0!5f0.7820865974627469" allowfullscreen="https://www.google.com/maps/embed?pb=!4v1616516473943!6m8!1m7!1sCAoSLEFGMVFpcFBqZG9zNTltb3FrSU5ETm9jWnA5VXJaQUVGTG56REtObzhteU9O!2m2!1d-8.058!2d114.242!3f224.1222!4f0!5f0.7820865974627469" loading="lazy" id="frame1"></iframe>
+    <a href="index.html"><button class="back">Back</button></a>
+</body>
+</html>

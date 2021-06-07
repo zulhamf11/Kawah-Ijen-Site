@@ -1,0 +1,44 @@
+
+header.f360view {
+    display: flex;
+    position: absolute;
+   	justify-content: center;
+    align-items: center;
+    bottom: 50px;
+    width: 100%;
+	
+}
+
+.selected i, .selected span {
+    display: block;
+}
+
+.selected {
+    text-align: center;
+	border-radius: 200%;
+	transform: translateY(20px);
+    background-color: #14bf98;
+    color: white;
+    margin: auto;
+    text-align: center;
+    box-sizing: border-box;
+    padding: 10px 20px;
+    transition: .5s;
+    cursor: pointer;
+
+}
+
+.selected i {
+    font-size: 30px;
+    list-style: none;
+}
+
+.selected span {
+    list-style: none;
+    /* width: 0; */
+    overflow: hidden;
+}
+
+.selected:hover {
+    transform: translateY(0);
+}
