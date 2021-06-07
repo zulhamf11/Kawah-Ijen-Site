@@ -6,7 +6,7 @@
 - Putri Anggi Pradaya (2440074810)
 - Bachatsa Taqiyya (2440071733)
 
-# <p align="center">1337 Teams</p> 
+# <p align="center">4 Teams</p> 
 
 <p align="center">                    
 <img width="200px" src="https://github.com/zulhamf11/Kawah-Ijen-Site/blob/main/GithubRasset/ngg.png"></img>
