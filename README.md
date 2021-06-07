@@ -41,9 +41,9 @@ or if you open with chrome browser klik this site : http://kajen.rf.gd/
 #
 ### 📝 Paper
 <p align="center">
-<img src="https://github.com/JayaByu/Kawah-Ijen/blob/main/GithubRasset/karyail.PNG" align="center" width="700" height="100%">
+<img src="https://github.com/zulhamf11/blob/main/GithubRasset/karyail.PNG" align="center" width="700" height="100%">
                 
-<a href="https://github.com/JayaByu/Kawah-Ijen/blob/main/Document/Karya%20ilmiah.pdf">Read More</a>
+<a href="https://github.com/zulhamf11/blob/main/Document/Karya%20ilmiah.pdf">Read More</a>
 </p>
 
 #  
