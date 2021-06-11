@@ -43,7 +43,7 @@ or if you open with chrome browser klik this site : http://kajen.rf.gd/
 <p align="center">
 <img src="https://github.com/zulhamf11/Kawah-Ijen-Site/blob/main/GithubRasset/karyail.PNG" align="center" width="700" height="100%">
                 
-<a href="https://github.com/zulhamf11/Kawah-Ijen-Site/blob/main/Document/Karya%20ilmiah.pdf">Read More</a>
+<a href="https://github.com/zulhamf11/Kawah-Ijen-Site/blob/main/Document/HCI%20Karya%20Tulis%20ilmiah.pdf">Read More</a>
 </p>
 
 #  
