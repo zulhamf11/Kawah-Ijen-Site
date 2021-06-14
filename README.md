@@ -24,7 +24,7 @@ or if you open with chrome browser klik this site : http://kajen.rf.gd/
 
 ### 🛠️ Web Guide
 <p align="center">
-<img src="https://github.com/zulhamf11/Kawah-Ijen-Site/blob/main/GithubRasset/guided.png" align="center" width="700" height="100%">
+<img src="https://github.com/zulhamf11/Kawah-Ijen-Site/blob/main/GithubRasset/guide.png" align="center" width="700" height="100%">
   
 <a href="https://www.youtube.com/watch?v=nvponnpjUzc">Click here to watch the video...</a>
   
