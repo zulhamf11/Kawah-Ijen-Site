@@ -22,6 +22,16 @@ If you open with the default chrome browser then the domain url will not work, o
 or if you open with chrome browser klik this site : http://kajen.rf.gd/
 #
 
+### 🛠️ Web Guide
+<p align="center">
+<img src="https://github.com/zulhamf11/Kawah-Ijen-Site/blob/main/GithubRasset/guided.png" align="center" width="700" height="100%">
+                
+<a href="https://drive.google.com/drive/folders/11wF-ybULaIKvQBz2u2xO81FVZf8KGO-t?usp=sharing">Click here...</a>
+</p>
+
+#  
+
+
 # <p align="left">Development <img src="https://github.com/zulhamf11/Kawah-Ijen-Site/blob/main/GithubRasset/devv.gif" width="90px"></p>
 
 ### 🛠️ Tools & Code 
